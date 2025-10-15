@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Autor: Julka Kornijasz
+=======
+Kurs: DevOps
+>>>>>>> ea597b1 (Dodano linię z nazwą kursu)
